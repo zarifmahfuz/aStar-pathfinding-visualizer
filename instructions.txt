@@ -1,0 +1,4 @@
+1. Enter two points between (0, 0) and (49, 49)
+2. You can choose to see the steps of the a* pathfinding algorithm
+3. Add obstacles as you wish by left-clicking and dragging the mouse steadily 
+4. Hit the spacebar to start the visualizer!
